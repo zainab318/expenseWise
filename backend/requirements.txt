@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+plotly
+pandas
+pillow
+python-multipart
