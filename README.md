@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit Version">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Deployment-Ready-brightgreen.svg" alt="Deployment Ready">
   <img src="https://img.shields.io/badge/Live-Demo-success.svg" alt="Live Demo">
 </div>
@@ -265,10 +264,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Use meaningful variable names
 - Add docstrings to functions
 - Include type hints
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
