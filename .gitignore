@@ -40,6 +40,9 @@ multitools.db
 # Node.js and Frontend
 node_modules/
 frontend/
+*.db
+*.sqlite
+*.sqlite3
 
 # IDE
 .vscode/

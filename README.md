@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/badge/Streamlit-1.28+-red.svg" alt="Streamlit Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
   <img src="https://img.shields.io/badge/Deployment-Ready-brightgreen.svg" alt="Deployment Ready">
+  <img src="https://img.shields.io/badge/Live-Demo-success.svg" alt="Live Demo">
+</div>
+
+<div align="center">
+  <h3>🚀 <a href="https://web-production-c954e.up.railway.app/">Live Demo</a> | 📱 <a href="https://github.com/zainab318/expenseWise">GitHub Repository</a></h3>
 </div>
 
 ## 🎯 Overview
@@ -58,16 +63,21 @@
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### 🌐 **Try the Live Demo**
+**Visit the live application:** [https://web-production-c954e.up.railway.app/](https://web-production-c954e.up.railway.app/)
+
+### 💻 **Local Development**
+
+#### Prerequisites
 - Python 3.8 or higher
 - pip (Python package installer)
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expensewise.git
-   cd expensewise
+   git clone https://github.com/zainab318/expenseWise.git
+   cd expenseWise
    ```
 
 2. **Install dependencies**
@@ -133,45 +143,27 @@ pillow>=10.0.0
 python-multipart>=0.0.6
 ```
 
-## 🚀 Deployment Options
+## 🚀 Deployment
 
-### **Free Deployment Platforms**
+### **Live Application**
+**🌐 [https://web-production-c954e.up.railway.app/](https://web-production-c954e.up.railway.app/)**
+
+This application is currently deployed on **Railway** and is live for public use.
+
+### **Deploy Your Own Instance**
 
 #### **Railway (Recommended)**
-- One-click deployment from GitHub
-- Automatic builds and deployments
-- Free tier available
-- Custom domain support
+1. **Fork this repository**
+2. **Go to [Railway.app](https://railway.app)**
+3. **Connect your GitHub account**
+4. **Deploy from GitHub repository**
+5. **Select your forked `expenseWise` repository**
+6. **Railway will automatically deploy your app**
 
-#### **Render**
-- Free tier with 750 hours/month
-- Automatic SSL certificates
-- Easy GitHub integration
-- Built-in monitoring
-
-#### **Heroku**
-- Free tier available
-- Easy deployment process
-- Add-on ecosystem
-- Professional features
-
-### **Deployment Steps**
-
-1. **Push to GitHub**
-   ```bash
-   git add .
-   git commit -m "Initial commit: ExpenseWise"
-   git push origin main
-   ```
-
-2. **Deploy to Railway**
-   - Connect your GitHub repository
-   - Railway auto-detects Streamlit
-   - Deploy with one click
-
-3. **Access your live app**
-   - Get your Railway URL
-   - Share with users worldwide
+#### **Other Platforms**
+- **Render**: Free tier with 750 hours/month
+- **Heroku**: Easy deployment process
+- **Vercel**: Great for static sites
 
 ## 📊 Features in Detail
 
@@ -296,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ready to start managing your expenses? Here's how:
 
-1. **Visit the app**: Go to your deployed URL
+1. **Visit the live app**: [https://web-production-c954e.up.railway.app/](https://web-production-c954e.up.railway.app/)
 2. **Register**: Create your account
 3. **Add expenses**: Start tracking your spending
 4. **Upload receipts**: Use AI to process receipts
@@ -306,5 +298,6 @@ Ready to start managing your expenses? Here's how:
 
 <div align="center">
   <p><strong>💰 ExpenseWise - Smart Expense Management Made Simple</strong></p>
+  <p>🌐 <a href="https://web-production-c954e.up.railway.app/">Live Demo</a> | 📱 <a href="https://github.com/zainab318/expenseWise">GitHub</a></p>
   <p>Built with ❤️ using Streamlit and Python</p>
 </div>
